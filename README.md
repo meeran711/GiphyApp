@@ -1,5 +1,7 @@
 # GiphyApp
 
+Goto application folder and type 'ng serve'
+
 The app loads on http://localhost:4200/ provided the backend Springboot app is running on 8080.
 
 Clicking on 'Giphy Search' title will bring to the home page of the app which by default loads all the trending GIFs page by page.
