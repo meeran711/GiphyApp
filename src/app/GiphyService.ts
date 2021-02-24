@@ -9,7 +9,6 @@ import { GiphyItem } from './GiphyItem';
 export class GiphyService {
   searchApi = 'http://localhost:8080/giphylookup';
   trendingGifs = '/gifs/trending';
-  trendingStickers = '/stickers/trending';
   searchGifs = '/gifs/search';
   searchStickers = '/stickers/search';
 
